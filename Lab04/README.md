@@ -1,5 +1,5 @@
 # Lab_4
-# README – C++ Ternary Operator Tasks
+# C++ Ternary Operator Tasks
 
 This document contains three programming tasks designed to help you understand and apply the ternary operator in C++.
 Each task must be solved without using if-else statements.
