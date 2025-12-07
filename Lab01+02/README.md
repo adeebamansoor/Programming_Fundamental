@@ -1,7 +1,7 @@
 #  Programming Fundamentals — Lab 1 + 2
 
 ##  Overview
-This repository contains the work for **Lab 1** of the *Programming Fundamentals* course.  
+This repository contains the work for **Lab 1 + 2** of the *Programming Fundamentals* course.  
 The main focus of this lab is to get familiar with the **Dev-C++ IDE**, understand the basic structure of a **C++ program**, and perform simple **input/output operations** using `cout`.
 
 ---
@@ -36,9 +36,6 @@ Write a C++ program that displays a **welcome message** on the screen.
 ### Task 3 — Formatting with Tabs and Newlines
 Practice using the \t (tab) and \n (newline) escape sequences to format text neatly.
 
-### Task 4 — Message Using Various Escape Sequences
-
-Use multiple escape sequences such as \n, \t, \", and \\ to create a formatted message.
 
 # Learning Outcomes
 
