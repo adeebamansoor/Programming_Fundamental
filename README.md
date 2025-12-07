@@ -26,7 +26,7 @@ Each lab includes multiple short programming exercises written in **C++**.
 - Improve logical thinking and C++ coding skills.  
  
 
-### **Lab 05 – Decision Making in C++ (if, if-else, )
+### **Lab 05 – Decision Making in C++ (if, if-else, )**
 
 -This lab focuses on practicing C++ decision-making statements using:
 - `if`
@@ -36,13 +36,12 @@ Each lab includes multiple short programming exercises written in **C++**.
 ### **Lab 06 + 07 – if-elseif-else`, Nested `if`**
 -`if-elseif-else`
 - Nested `if`
-- 
 
 ## 🎯 Objective
 To practice the fundamentals of programming using C++ through small task-based labs .
 ---
 
-## 🛠 Tools / Editor Used
+# 🛠 Tools / Editor Used
 - **Dev-C++**  
  
 
