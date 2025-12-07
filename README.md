@@ -39,6 +39,11 @@ Each lab includes multiple short programming exercises written in **C++**.
 
 ## 🎯 Objective
 To practice the fundamentals of programming using C++ through small task-based labs .
+
+**How to Run**
+1. Open the desired task file in Dev-C++ or any C++ IDE.  
+2. Compile and run the program.  
+3. Follow the prompts to see output.
 ---
 
 # 🛠 Tools / Editor Used
