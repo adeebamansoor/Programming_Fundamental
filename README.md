@@ -1,6 +1,6 @@
-# Programming Fundamentals — Labs (1 to 7)
+# Programming Fundamentals — Labs (1 to 13)
 
-This repository contains all Programming Fundamentals lab tasks (Lab 1 to Lab 7).  
+This repository contains all Programming Fundamentals lab tasks (Lab 1 to Lab 13).  
 Each lab includes multiple short programming exercises written in **C++**.
 
 ---
