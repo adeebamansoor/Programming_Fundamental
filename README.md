@@ -91,6 +91,16 @@ Each lab includes multiple short programming exercises written in **C++**.
 
 ---
 
+# 📚 Library Management System (Console-Based)
+
+## Project Overview
+
+This project is a **Console-Based Library Management System** developed in **C++** as part of the **Programming Fundamentals (1st Semester)** course. The system helps manage library records such as books, issuing, returning, and tracking availability using arrays, functions, and basic logic.
+
+The project is designed to strengthen core programming concepts like **loops, functions, arrays, input validation, and conditional logic**, while also introducing basic system design.
+
+---
+
 
 ## 🎯 Objective
 To practice the fundamentals of programming using C++ through small task-based labs .
